@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### Contact me 
+- :email: ahmadlufi300@gmail.com
+- 🔭 https://www.upwork.com/freelancers/ahmadlufiau
+
+#### Technology Stack :
+
+- ✅ Laravel
+- ✅ VueJS
+- ✅ WordPress
+
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
