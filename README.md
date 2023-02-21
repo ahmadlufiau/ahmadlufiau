@@ -4,11 +4,21 @@
 - :email: ahmadlufi300@gmail.com
 - 🔭 https://www.upwork.com/freelancers/ahmadlufiau
 
+#### Specialist :
+- ✅ Enterprise System Development (Human Resources Management System (HRMS), Customer Relationship Management (CRM), Finance System, Inventory System, and others)
+- ✅ API Integrated
+- ✅ Core Web Vitals
+
 #### Technology Stack :
 
 - ✅ Laravel
 - ✅ VueJS
 - ✅ WordPress
+
+#### Management Tools :
+- ✅ Jira
+- ✅ Asana
+- ✅ ClickUp
 
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
