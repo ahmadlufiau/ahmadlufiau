@@ -11,14 +11,10 @@
 
 #### Technology Stack :
 
-- ✅ Laravel
+- ✅ PHP Laravel
 - ✅ VueJS
-- ✅ WordPress
-
-#### Management Tools :
-- ✅ Jira
-- ✅ Asana
-- ✅ ClickUp
+- ✅ WordPress from stratch
+- ✅ HubSpot from stratch
 
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
