@@ -16,6 +16,9 @@
 - ✅ WordPress from stratch
 - ✅ HubSpot from stratch
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
