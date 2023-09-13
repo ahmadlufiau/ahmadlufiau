@@ -13,8 +13,8 @@
 
 - ✅ PHP Laravel
 - ✅ VueJS
-- ✅ WordPress from stratch
-- ✅ HubSpot from stratch
+- ✅ WordPress
+- ✅ HubSpot
 
 #### Last 7 Days Activity :
 <!--START_SECTION:waka-->
