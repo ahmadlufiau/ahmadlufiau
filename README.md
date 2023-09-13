@@ -16,6 +16,7 @@
 - ✅ WordPress from stratch
 - ✅ HubSpot from stratch
 
+#### Last 7 Days Activity :
 <!--START_SECTION:waka-->
 
 ```txt
