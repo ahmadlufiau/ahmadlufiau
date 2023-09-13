@@ -17,6 +17,15 @@
 - ✅ HubSpot from stratch
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML           26 hrs 15 mins  ███████████████████████░░   92.47 %
+PHP            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+JSON           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
