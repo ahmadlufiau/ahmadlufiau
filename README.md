@@ -19,6 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 28 hrs 14 mins
+
 HTML           26 hrs 15 mins  ███████████████████████░░   92.47 %
 PHP            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 JSON           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
