@@ -20,12 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-Text       8 mins          █████████████████▓░░░░░░░   70.30 %
-Markdown   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-PHP        0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
