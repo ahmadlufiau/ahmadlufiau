@@ -16,6 +16,16 @@
 - ✅ WordPress
 - ✅ HubSpot
 
+#### Last 7 Days Activity :
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
