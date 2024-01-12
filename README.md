@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 51 mins
+Total Time: 17 hrs 9 mins
 
-JavaScript       5 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Markdown         4 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-Other            4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-HTML             3 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-PHP              1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JavaScript       5 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+Markdown         4 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+HTML             2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Other            2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+PHP              1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
