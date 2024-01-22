@@ -1,20 +1,23 @@
 ### Hi there 👋
 
+With over 7 years of experience, I adhere strictly to modern web development best practices. My commitment to continuous learning defines my approach, ensuring reliability, responsibility, a focus on meeting deadlines, and unwavering dedication to client satisfaction.
+
 #### Contact me 
-- :email: ahmadlufi300@gmail.com
-- 🔭 https://www.upwork.com/freelancers/ahmadlufiau
+- [ahmadlufie00@gmail.com](mailto:ahmadlufi300@gmail.com)
+- [WhatsApp](https://wa.me/+6285732121703)
+- [Upwork](https://www.upwork.com/freelancers/ahmadlufiau)
 
-#### Specialist :
-- ✅ Enterprise System Development (Human Resources Management System (HRMS), Customer Relationship Management (CRM), Finance System, Inventory System, and others)
-- ✅ API Integrated
-- ✅ Core Web Vitals
+#### My professional skills include :
+- ✅ Stack: PHP, Laravel, WordPress
+- ✅ Javascript: jQuery, VanillaJS, VueJS and NextJS.
+- ✅ Unit test: PHPUnit, Playwright, and Jest
+- ✅ CSS : SCSS/SASS, Bootstrap and Tailwind
+- ✅ Databases: MySQL, PostgreSQL, MariaDB, MongoDB
+- ✅ Area of expertise: ERP, CRM, Travel, Logistics, Healthcare, FinTech, and Government.
 
-#### Technology Stack :
+#### Other professional skills :
 
-- ✅ PHP Laravel
-- ✅ VueJS
-- ✅ WordPress
-- ✅ HubSpot
+- ✅ HubSpot CMS (Build module, themes, maintenance, and integration with third parties)
 
 #### Last 7 Days Activity :
 <!--START_SECTION:waka-->
