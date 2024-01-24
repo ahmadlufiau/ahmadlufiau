@@ -23,13 +23,13 @@ With over 7 years of experience, I adhere strictly to modern web development bes
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 2 mins
+Total Time: 4 hrs 54 mins
 
-JavaScript        3 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.17 %
-HTML              2 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-JSON              1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Other             1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-YAML              37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+HTML              1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+JavaScript        1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
+Other             47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+YAML              37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+JSON              35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 ```
 
 <!--END_SECTION:waka-->
