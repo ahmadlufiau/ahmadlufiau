@@ -19,9 +19,10 @@ With over 7 years of experience, I adhere strictly to modern web development bes
 
 - ✅ HubSpot CMS (Build module, themes, maintenance, and integration with third parties)
 
-#### Last 7 Days Activity :
-<!--START_SECTION:waka-->
 
+<!--#### Last 7 Days Activity :-->
+<!--START_SECTION:waka-->
+<!--
 ```txt
 Total Time: 3 hrs 21 mins
 
@@ -31,8 +32,9 @@ Other             50 mins         █████░░░░░░░░░░�
 PHP               18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 Bash              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
-
+-->
 <!--END_SECTION:waka-->
+
 
 <!--
 **ahmadlufiau/ahmadlufiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
