@@ -1,8 +1,8 @@
-### PHP, Laravel, VueJS and WordPress Expert | Web Developer
+### PHP Laravel & VueJS | HubSpot CMS | WordPress Expert | Web Developer
 
 With over 7 years of experience, I adhere strictly to modern web development best practices. My commitment to continuous learning defines my approach, ensuring reliability, responsibility, a focus on meeting deadlines, and unwavering dedication to client satisfaction.
 
-#### Contact me 
+#### Contact me :
 - [ahmadlufi300@gmail.com](mailto:ahmadlufi300@gmail.com)
 - [WhatsApp](https://wa.me/+6285732121703)
 - [Upwork](https://www.upwork.com/freelancers/ahmadlufiau)
