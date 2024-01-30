@@ -21,19 +21,6 @@ With over 7 years of experience, I adhere strictly to modern web development bes
 
 
 <!--#### Last 7 Days Activity :-->
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 5 hrs 8 mins
-
-JavaScript        3 hrs 33 mins   ███████████████▒░░░░░░░░░   61.26 %
-HTML              58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Other             39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-PHP               18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Bash              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!--
