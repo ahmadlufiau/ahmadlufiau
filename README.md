@@ -1,4 +1,4 @@
-### SOFTWARE ENGINEER (PHP, JAVASCRIPT, and HUBL)
+### SOFTWARE ENGINEER (PHP Laravel, JAVASCRIPT VueJS, and HUBL HubSpot CMS)
 
 Results-driven Software Engineer with **8+ years of experience in fintech, education, travel, and consulting** industries. Skilled in building **scalable, high-performance applications**, optimizing workflows, and integrating APIs. Strong problem-solving abilities in **architecture design, automation, and system efficiency**. Passionate about **innovation, process improvement, and delivering business-driven solutions**.
 
