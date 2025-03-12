@@ -1,24 +1,19 @@
-### PHP Laravel & VueJS | HubSpot CMS | WordPress Expert | Web Developer
+### SOFTWARE ENGINEER (PHP, JAVASCRIPT, and HUBL)
 
-With over 7 years of experience, I adhere strictly to modern web development best practices. My commitment to continuous learning defines my approach, ensuring reliability, responsibility, a focus on meeting deadlines, and unwavering dedication to client satisfaction.
+Results-driven Software Engineer with **8+ years of experience in fintech, education, travel, and consulting** industries. Skilled in building **scalable, high-performance applications**, optimizing workflows, and integrating APIs. Strong problem-solving abilities in **architecture design, automation, and system efficiency**. Passionate about **innovation, process improvement, and delivering business-driven solutions**.
 
-#### Contact me :
-- [ahmadlufi300@gmail.com](mailto:ahmadlufi300@gmail.com)
-- [WhatsApp](https://wa.me/+6285732121703)
-- [Upwork](https://www.upwork.com/freelancers/ahmadlufiau)
+#### CONTACT :
+- Email: [ahmadlufi300@gmail.com](mailto:ahmadlufi300@gmail.com)
+- WhatsApp: [+6285732121703](https://wa.me/+6285732121703)
+- Upwork: [https://www.upwork.com/freelancers/ahmadlufiau](https://www.upwork.com/freelancers/ahmadlufiau) (Consistency **Top Rated Plus** on **Upwork from 2021 to present**)
 
-#### My professional skills include :
-- ✅ Stack: PHP, Laravel, WordPress
-- ✅ Javascript: jQuery, VanillaJS, VueJS and NextJS.
+#### SKILLS :
+- ✅ PHP: Laravel, Native, WordPress
+- ✅ Javascript: VueJS, NextJS, VanillaJS, and jQuery.
+- ✅ HubL: HubSpot CMS (build module, themes, maintenance, and integration with third parties)
+- ✅ CSS: Tailwind, and Bootstrap
+- ✅ Databases: MySQL, PostgreSQL, MariaDB, and MongoDB
 - ✅ Unit test: PHPUnit, Playwright, and Jest
-- ✅ CSS : SCSS/SASS, Bootstrap and Tailwind
-- ✅ Databases: MySQL, PostgreSQL, MariaDB, MongoDB
-- ✅ Area of expertise: ERP, CRM, Travel, Logistics, Healthcare, FinTech, and Government.
-
-#### Other professional skills :
-
-- ✅ HubSpot CMS (Build module, themes, maintenance, and integration with third parties)
-
 
 <!--#### Last 7 Days Activity :-->
 
