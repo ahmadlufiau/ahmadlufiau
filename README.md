@@ -1,4 +1,4 @@
-### SOFTWARE ENGINEER (PHP Laravel, JAVASCRIPT VueJS, and HUBL HubSpot CMS)
+### SOFTWARE ENGINEER (PHP Laravel, JAVASCRIPT / TYPESCRIPT VueJS ReactJS, and HUBL HubSpot CMS)
 
 Results-driven Software Engineer with **8+ years of experience in fintech, education, travel, and consulting** industries. Skilled in building **scalable, high-performance applications**, optimizing workflows, and integrating APIs. Strong problem-solving abilities in **architecture design, automation, and system efficiency**. Passionate about **innovation, process improvement, and delivering business-driven solutions**.
 
@@ -9,11 +9,11 @@ Results-driven Software Engineer with **8+ years of experience in fintech, educa
 
 #### SKILLS :
 - ✅ PHP: Laravel, Native, WordPress
-- ✅ Javascript: VueJS, NextJS, VanillaJS, and jQuery.
+- ✅ Javascript / TypeScript: VueJS, ReactJS, NextJS, VanillaJS, and jQuery.
 - ✅ HubL: HubSpot CMS (build module, themes, maintenance, and integration with third parties)
 - ✅ CSS: Tailwind, and Bootstrap
 - ✅ Databases: MySQL, PostgreSQL, MariaDB, and MongoDB
-- ✅ Unit test: PHPUnit, Playwright, and Jest
+- ✅ Unit test: PHPUnit, Playwright, Vitest, React Testing Library, and Jest
 
 <!--#### Last 7 Days Activity :-->
 
