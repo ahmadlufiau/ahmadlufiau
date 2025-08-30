@@ -5,7 +5,7 @@ Results-driven Software Engineer with **8+ years of experience in fintech, educa
 #### CONTACT :
 - Email: [ahmadlufi300@gmail.com](mailto:ahmadlufi300@gmail.com)
 - WhatsApp: [+6285732121703](https://wa.me/+6285732121703)
-- Upwork: [https://www.upwork.com/freelancers/ahmadlufiau](https://www.upwork.com/freelancers/ahmadlufiau) (Consistency **Top Rated Plus** on **Upwork from 2021 to present** **4500+** hours of work)
+- Upwork: [https://www.upwork.com/freelancers/ahmadlufiau](https://www.upwork.com/freelancers/ahmadlufiau) (Consistency **Top Rated Plus** on **Upwork from 2021 to present** and **4500+** hours of work)
 
 #### SKILLS :
 - ✅ Backend: PHP (Native, Laravel), Node.js (Express.js), Golang, and Python (FastAPI)
